@@ -21,11 +21,6 @@ Este é um aplicativo simples para **consulta e gerenciamento de endereços** ba
 
 ## 🛠 **Como instalar e rodar o projeto**
 
-### 1️⃣ **Clone o repositório**
-```bash
-git clone https://github.com/seu-usuario/cep-app.git
-```
-
 ### 1️⃣ Clonar o repositório
 ```bash
 git clone https://github.com/seu-usuario/cep-app.git
