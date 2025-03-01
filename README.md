@@ -49,16 +49,3 @@ npm start
 ```
 O projeto será iniciado e estará acessível em http://localhost:3000.
 
-### Estrutura do projeto
-
-📦 cep-app
- ┣ 📂 src
- ┃ ┣ 📂 components
- ┃ ┃ ┣ 📜 AddressForm.tsx   # Formulário para adicionar/editar endereços
- ┃ ┃ ┣ 📜 AddressList.tsx   # Lista de endereços salvos
- ┃ ┣ 📜 types.ts            # Definição da interface Address
- ┃ ┣ 📜 App.tsx             # Componente principal da aplicação
- ┃ ┣ 📜 index.tsx           # Ponto de entrada da aplicação
- ┣ 📜 package.json          # Dependências do projeto
- ┣ 📜 README.md             # Documentação do projeto
-
